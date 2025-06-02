@@ -1,0 +1,95 @@
+body {
+    color: #fff;
+}
+.logo {
+    width: 17% !important;
+}
+.nav-item:hover a{
+    color: red !important;
+}
+.resume {
+   
+}
+.container-id {
+   
+}
+.hero-hero {
+    width: 80% !important;
+    margin: 0 auto;
+}
+.social-icon li {
+    list-style: none;
+    margin: 0 15px;
+}
+.wd-25 {
+    width: 10% !important;
+}
+.img-wd .image-wd {
+    width: 100%;
+}
+.text-wd {
+    width: 50% !important;
+}
+
+.cont-wd {
+    width: 65% !important;
+}
+.social-btn li {
+    list-style: none;
+    margin-right: 8px;
+    display: inline-block;
+    border-radius: 5px;
+}
+.social-btn li a {
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 10px;
+}
+.social-btn p {
+    margin: 0;
+}
+.fst {
+    padding-top: 25px;
+}
+.comfortable-section .social-btn {
+    margin-top: -12px !important;
+}
+.fst li {
+    margin: 4px 0 !important;
+}
+.form {
+    width: 100% !important;
+}
+::placeholder {
+  text-align: center;
+}
+
+.social-icon p {
+    
+}
+.footer-section p {
+    margin: 0 0 5px 0;
+}
+.form-wd {
+    box-shadow: 4px 4px 8px gray;
+    width: 450px !important;
+}
+.w-1000 {
+    width: 280px !important;
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+    .form {
+        width: 100% !important;
+    }
+    body {
+        background-color: red;
+    }
+}
